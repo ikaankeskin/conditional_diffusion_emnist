@@ -1,2 +1,4 @@
 other/
 __pycache__/
+X_train_tensor.pt
+y_train_tensor.pt
